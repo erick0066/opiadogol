@@ -1,4 +1,9 @@
-### Hi there 👋
+#  sobre mim
+-  ola, eu sou eric
+- estou interessado em curso
+- atualmente estou aprendendo scratch e javascripit
+_ estou disponivel para colaborar e ajudar meus colegas
+-istagram : erick_ortiz001
 
 <!--
 **opiadogol/opiadogol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
